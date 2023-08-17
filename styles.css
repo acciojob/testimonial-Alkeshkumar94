@@ -10,6 +10,8 @@
 .div2{
 	background-color:white;
 	padding:10px;
+	border:5px solid grey;
+	
 }
 p{
 	text-align:right;
